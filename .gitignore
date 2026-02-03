@@ -9,3 +9,4 @@ backend/.env
 
 # Frontend env
 frontend/.env
+frontend/README.md
