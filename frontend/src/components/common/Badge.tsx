@@ -16,7 +16,7 @@ export default function Badge({ className = "" }: Props) {
         ${className}
       `}
     >
-      <span className="text-base">●</span> Live Poll
+      <span className="text-base">●</span> VoteFlow
     </div>
   );
 }
