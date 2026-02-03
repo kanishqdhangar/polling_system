@@ -1,4 +1,4 @@
-# ViteFlow
+# VoteFlow
 
 A real-time polling application where a teacher can create live polls and students can participate instantly.  
 The system uses WebSockets for real-time updates and enforces one vote per student at the database level to ensure correctness and consistency.
