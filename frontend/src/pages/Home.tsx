@@ -16,7 +16,7 @@ export default function Home() {
 
       {/* Main Heading */}
       <h1 className="text-5xl font-medium text-[#1A1A1A] mb-4 text-center">
-        Welcome to the <span className="font-bold">Live Polling Platform</span>
+        Welcome to <span className="font-bold">VoteFlow</span> the live voting platform.
       </h1>
 
       {/* Subtitle */}
