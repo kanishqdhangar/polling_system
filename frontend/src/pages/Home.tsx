@@ -11,7 +11,7 @@ export default function Home() {
       {/* Badge */}
       <div className="mb-10 px-6 py-2 rounded-full bg-[#7765DA]/15 text-[#7765DA] 
                       text-sm font-semibold flex items-center gap-2">
-        <span className="text-base">●</span> Live Poll
+        <span className="text-base">●</span> VoteFlow
       </div>
 
       {/* Main Heading */}
